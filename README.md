@@ -3,19 +3,17 @@ January 3rd, 2026
 
 I. Project Goals and Objectives
 
-Acknowledging the slightly more creative approach to this analysis, my main goals were to pull data from public sources (and clean data), practice my data analysis skills using Python tools, and get a better understanding of both the European Football and AI markets. 
-
-Briefly Expand.
+Acknowledging the slightly more creative approach to this analysis, my main goals were to pull data from public sources (and clean data), practice my data analysis skills using Python tools, and get a better understanding of both the European Football and AI markets. The creative framing of this analysis was deliberate: it forced a level of comparative rigour that a single-market study would not have required — plus, it was simply quite enjoyable :).
 
 II. Introduction
 
 The Premier League has, over the last decade, pulled away from the rest of Europe's Big 5 leagues on virtually every financial metric. Revenue, transfer spending, broadcast rights, and global viewership have all compounded in England's favour, creating a flywheel dynamic that is increasingly difficult for rival leagues to disrupt.
 
-Expand: In essence, with more financial investment → better players → better results → more fans and viewership → more revenue etc. 
+In essence, greater financial investment enables clubs to attract better players, which produces stronger on-pitch results and more entertaining football, which in turn draws a larger global fanbase and drives higher viewership figures, which commands more lucrative broadcast and commercial deals, which generates yet more revenue — and so the cycle reinforces itself. Each turn of the wheel makes the next turn easier for those already inside it, and harder for those outside.
 
 A strikingly similar pattern is playing out in the AI market. A small cluster of Big Tech companies are similarly pouring hundreds of billions into AI infrastructure, attracting the best talent, and consolidating market share in a way that echoes what I see of the Premier League's financial dominance.
 
-Through this analysis, I hope to first draw the structural parallels between the Premier League’s dominance in European football and Big Tech’s dominance in the AI market, focusing on flywheel dynamics, revenue concentration and competitive inequality. Using ___, 
+Through this analysis, I hope to first draw the structural parallels between the Premier League’s dominance in European football and Big Tech’s dominance in the AI market, focusing on flywheel dynamics, revenue concentration and competitive inequality. Using publicly available financial data drawn from Deloitte's Football Money League reports, Transfermarkt's transfer database, UEFA's coefficient rankings, and aggregated Big Tech earnings and VC funding data, I quantify these parallels through Gini coefficient analysis and Pearson correlation testing — before examining whether the football market's experience with spending inflation and diminishing returns offers any cautionary signal for the AI sector.
 
 III. The Premier League Flywheel
 
