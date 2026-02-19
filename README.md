@@ -3,7 +3,7 @@ January 3rd, 2026
 
 I. Project Goals and Objectives
 
-Acknowledging the slightly more creative approach to this analysis, my main goals were to pull data from public sources (and clean data), practice my data analysis skills using Python tools, and get a better understanding of both the European Football and AI markets. The creative framing of this analysis was deliberate: it forced a level of comparative rigour that a single-market study would not have required — plus, it was simply quite enjoyable :).
+Acknowledging the slightly more creative approach to this analysis, my main goals were to learn how to pull data from public sources (and clean it), practice my data analysis skills using Python tools, and get a better understanding of both the European Football and AI markets. The creative framing of this analysis was deliberate: it forced a level of comparative rigour that a single-market study would not have required — plus, it was simply quite enjoyable :).
 
 II. Introduction
 
